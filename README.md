@@ -2,11 +2,8 @@
 
 **A relational database system designed for Dr. Ashraf Shabib’s surgical clinic in Qus, Egypt. This project manages patients, doctors, paramedics, appointments, procedures, medical supplies, and more, streamlining clinic operations.**
 
-<<<<<<< HEAD
 **This database was developed as part of a semester-long project (September 2023) at AAST-Aswan. It includes 30+ tables to track entities like patients, appointments, medical investigations, and billing, with robust relationships enforced via foreign keys. The goal is to streamline the workflow of a surgical clinic by managing critical operations efficiently.**
 
-=======
->>>>>>> d5dee09442a5443ea8259091a973d272b513a199
 ### Features
  - Patient Management: Track patient details, medical history, allergies, and insurance.
  - Appointment Scheduling: Manage appointments with doctors, paramedics, and rooms.
@@ -37,12 +34,8 @@
  - Phase 2: Relational Schema: Schema design and mapping.
  - Phase 3: Table Creation: Table creation details (Part 1).
  - hase 3: Additional Details: Further implementation notes (Part 2).
- - first complete version of code in file SQLQuery.sql
+ - first complete version of code Query in file SQLQuery.sql
 
 -------------
+#### Feel free to reach out with feedback or collaboration ideas!
 
-<<<<<<< HEAD
-#### Feel free to reach out with feedback or collaboration ideas!
-=======
-#### Feel free to reach out with feedback or collaboration ideas!
->>>>>>> d5dee09442a5443ea8259091a973d272b513a199
