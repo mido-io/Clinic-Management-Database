@@ -37,7 +37,8 @@
  - first complete version of code Query in file SQLQuery.sql
 
 ### Collaborator
-![Abdelaziz Ashraf]([https://img.shields.io/badge/Java-17-blue](https://github.com/AbdelazizAshraf90))
+[Abdelaziz Ashraf](https://github.com/AbdelazizAshraf90)
+
 -------------
 #### Feel free to reach out with feedback or collaboration ideas!
 
