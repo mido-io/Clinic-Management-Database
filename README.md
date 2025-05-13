@@ -37,8 +37,13 @@
  - first complete version of code Query in file SQLQuery.sql
 
 ### Collaborator
-[Abdelaziz Ashraf](https://github.com/AbdelazizAshraf90)
-[Ahmed Mahmoud](https://github.com/ahmedmahmoud232)
+[Abdelaziz Ashraf ](https://github.com/AbdelazizAshraf90)
+
+[Ahmed Ashraf ](https://github.com/aashraff17)
+
+[Ahmed Mahmoud ](https://github.com/ahmedmahmoud232)
+
+
 
 -------------
 #### Feel free to reach out with feedback or collaboration ideas!
