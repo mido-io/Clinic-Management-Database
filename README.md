@@ -19,7 +19,7 @@
 
 #### 1- Clone the repository
 
-`$ git clone https://github.com/MideoHub/Clinic-Management-Database.git`
+`$ git clone https://github.com/mido-io/Clinic-Management-Database.git`
 
 #### 2- Open SQL Server Management Studio.
 #### 3- Run the scripts in the following order:
